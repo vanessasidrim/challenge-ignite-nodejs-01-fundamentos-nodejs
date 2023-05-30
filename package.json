@@ -1,0 +1,16 @@
+{
+  "name": "01-fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Vanessa Sidrim <vanessasidrim@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
